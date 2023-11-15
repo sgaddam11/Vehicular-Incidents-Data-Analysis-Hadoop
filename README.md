@@ -1,4 +1,4 @@
-# Assignment-6
+
 UTILIZE HADOOP FOR DATA ANALYSIS <br/>
 <br/>
 The following commands are required to run the analysis after cloning into CS Cloud <br/>
